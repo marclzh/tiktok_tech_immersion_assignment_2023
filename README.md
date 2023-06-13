@@ -1,8 +1,9 @@
-# assignment_demo_2023
+# TikTok Tech Immersion Assignment 1
 
-![Tests](https://github.com/TikTokTechImmersion/assignment_demo_2023/actions/workflows/test.yml/badge.svg)
+![Tests](https://github.com/marclzh/tiktok_tech_immersion_assignment_2023/blob/main/.github/workflows/test.yml/badge.svg)
+Code Adapted from https://github.com/weixingp/tiktok-tech-immersion-2023.
 
-This is a demo and template for backend assignment of 2023 TikTok Tech Immersion.
+This is the backend assignment of 2023 TikTok Tech Immersion.
 
 ## Installation
 
